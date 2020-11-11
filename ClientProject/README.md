@@ -1,2 +1,2 @@
 # Código para sistema de lojas
-  não inteiramente terminado
+  não inteiramente terminado,executavel src>View>MainView
